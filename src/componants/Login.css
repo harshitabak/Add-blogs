@@ -3,20 +3,21 @@
   
   .login-container {
     text-align: center;
+    background-color: #d3dceb;
   }
   
   .google-logo {
-    width: 50px; /* Adjust the size as needed */
-    height: 50px; /* Adjust the size as needed */
+    width: 45px; /* Adjust the size as needed */
+    height: 45px; /* Adjust the size as needed */
     background-color: #d3dceb;
     
-    border-radius: 2px;
+    border-radius: 10px;
   }
   
   .google-login-button {
-    background-color: #f3f5f9; /* Google Blue */
+    background-color: #d3dceb; /* Google Blue */
     color: #5023f3; /* White text */
-    padding: 10px 20px;
+    padding: 10px 10px;
     font-size: 16px;
     border: none;
     border-radius: 5px;
